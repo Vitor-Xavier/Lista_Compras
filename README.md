@@ -1,4 +1,4 @@
-# Lista de Compras
+# Aplicativo para Listas de Compras
 Projeto desenvolvido em Java no ambiente Android Studio, para a disciplina de Programação em Dispositivos Móveis no 4° Semestre da Faculdade de Tecnologia de Ribeirão Preto FATEC-RP
 
 - Tela inicial
